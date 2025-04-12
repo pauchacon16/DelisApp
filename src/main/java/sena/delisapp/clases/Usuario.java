@@ -6,7 +6,7 @@ package sena.delisapp.clases;
 
 /**
  *
- * @author jseba
+ * @author pauchacon16
  */
 public class Usuario {
     private int id;

@@ -15,7 +15,7 @@ import sena.delisapp.clases.Usuario;
 
 /**
  *
- * @author jseba
+ * @author pauchacon16
  */
 public class GestionUsuarios {
     // Constantes para la conexión a la base de datos

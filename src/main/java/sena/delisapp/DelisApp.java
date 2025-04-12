@@ -10,7 +10,7 @@ import sena.delisapp.gestion_usuarios.GestionUsuarios;
 
 /**
  *
- * @author jseba
+ * @author pauchacon16
  */
 public class DelisApp {
 
